@@ -3,11 +3,12 @@ import './App.css';
 import Mukarram from './mukarram'
 function App() {
 
-  return (
+  return (<>
     <div className="App">
      hello Naqi
      <Mukarram />
     </div>
+  </>
   );
 }
 
